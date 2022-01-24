@@ -2,6 +2,11 @@
    and checks whether the string is an URL by matching the patterns
    of an typical URL and then appends it to url.txt file if the 
    string is not an url then it appends it to names.txt file  */
+
+/* Use a sample input of 
+ https://www.google.com
+ Rohan
+*/
 #include <bits/stdc++.h>
 #include<fstream>
 using namespace std;
